@@ -1,0 +1,6 @@
+C:\Users\Madhur_geek\source\repos\withoutNTier\connectiondatabase\bin\Debug\connectiondatabase.dll
+C:\Users\Madhur_geek\source\repos\withoutNTier\connectiondatabase\bin\Debug\connectiondatabase.pdb
+C:\Users\Madhur_geek\source\repos\withoutNTier\connectiondatabase\obj\Debug\connectiondatabase.csprojAssemblyReference.cache
+C:\Users\Madhur_geek\source\repos\withoutNTier\connectiondatabase\obj\Debug\connectiondatabase.csproj.CoreCompileInputs.cache
+C:\Users\Madhur_geek\source\repos\withoutNTier\connectiondatabase\obj\Debug\connectiondatabase.dll
+C:\Users\Madhur_geek\source\repos\withoutNTier\connectiondatabase\obj\Debug\connectiondatabase.pdb
